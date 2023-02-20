@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azizimj
 - 💞️ I’m looking to collaborate on Deep Offline RL, and Large Language Models.
-- 📫 Ream me at jagithub4448@gmail.com
+- 📫 Reach me at jagithub4448@gmail.com
 
 <!---
 Azizimj/Azizimj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
