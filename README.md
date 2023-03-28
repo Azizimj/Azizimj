@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azizimj
-- 💞️ I’m looking to collaborate on Deep Offline RL, and Large Language Models.
+- 💞️ I’m looking to collaborate on Deep Offline RL in Large Language Models.
 - 📫 Reach me at jagithub4448@gmail.com
 
 <!---
